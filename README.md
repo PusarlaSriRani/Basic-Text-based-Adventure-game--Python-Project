@@ -1,5 +1,7 @@
 # Basic-Text-based-Adventure-game--Python-Project
-
+# YOUR PROJECT TITLE
+    #### Video Demo:  https://youtu.be/VDknmqCzK1o
+    #### Description:  The main objective of the game is to collect all required items to win the game.
 # Text-based Adventure Game
 
 ## Overview
