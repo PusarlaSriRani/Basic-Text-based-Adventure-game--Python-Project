@@ -3,7 +3,7 @@
 # Text-based Adventure Game
 
 ## Overview
-This is a text-based adventure game where the player can explore different locations, collect items, solve puzzles, and interact with characters. The main objective of the game is to collect all required items to win the game.
+This is a text-based adventure game where the player can explore different locations, collect items and check weather the player win or not by interact with characters. The main objective of the game is to collect all required items to win the game.
 
 ## Project Structure
 - project.py: Contains the main game logic and functions.
